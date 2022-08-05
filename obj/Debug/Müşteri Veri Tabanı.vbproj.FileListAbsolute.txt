@@ -1,0 +1,17 @@
+C:\Users\abdur\source\repos\Müşteri Veri Tabanı\bin\Debug\Müşteri Veri Tabanı.exe
+C:\Users\abdur\source\repos\Müşteri Veri Tabanı\bin\Debug\Müşteri Veri Tabanı.pdb
+C:\Users\abdur\source\repos\Müşteri Veri Tabanı\bin\Debug\Müşteri Veri Tabanı.xml
+C:\Users\abdur\source\repos\Müşteri Veri Tabanı\obj\Debug\Müşteri_Veri_Tabanı.Form1.resources
+C:\Users\abdur\source\repos\Müşteri Veri Tabanı\obj\Debug\Müşteri_Veri_Tabanı.Form2.resources
+C:\Users\abdur\source\repos\Müşteri Veri Tabanı\obj\Debug\Müşteri_Veri_Tabanı.Resources.resources
+C:\Users\abdur\source\repos\Müşteri Veri Tabanı\obj\Debug\Müşteri Veri Tabanı.vbproj.GenerateResource.cache
+C:\Users\abdur\source\repos\Müşteri Veri Tabanı\obj\Debug\Müşteri Veri Tabanı.vbproj.CoreCompileInputs.cache
+C:\Users\abdur\source\repos\Müşteri Veri Tabanı\obj\Debug\Müşteri Veri Tabanı.exe
+C:\Users\abdur\source\repos\Müşteri Veri Tabanı\obj\Debug\Müşteri Veri Tabanı.xml
+C:\Users\abdur\source\repos\Müşteri Veri Tabanı\obj\Debug\Müşteri Veri Tabanı.pdb
+C:\Users\abdur\source\repos\Müşteri Veri Tabanı\bin\Debug\Müşteri Veri Tabanı.exe.manifest
+C:\Users\abdur\source\repos\Müşteri Veri Tabanı\bin\Debug\Müşteri Veri Tabanı.application
+C:\Users\abdur\source\repos\Müşteri Veri Tabanı\obj\Debug\Müşteri Veri Tabanı.TrustInfo.xml
+C:\Users\abdur\source\repos\Müşteri Veri Tabanı\obj\Debug\Müşteri Veri Tabanı.exe.manifest
+C:\Users\abdur\source\repos\Müşteri Veri Tabanı\obj\Debug\Müşteri Veri Tabanı.application
+C:\Users\abdur\source\repos\Müşteri Veri Tabanı\obj\Debug\Müşteri Veri Tabanı.vbproj.AssemblyReference.cache
